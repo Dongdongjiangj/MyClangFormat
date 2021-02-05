@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -GNinja D:\CLionProjects\CppDataStructure
+-- Conan: Adjusting output directories
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: D:/CLionProjects/CppDataStructure
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLionProjects/CppDataStructure/cmake-build-release
